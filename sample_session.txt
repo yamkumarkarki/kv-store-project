@@ -1,0 +1,4 @@
+SET name Yam
+GET name
+GET missing
+EXIT
